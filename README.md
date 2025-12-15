@@ -28,7 +28,7 @@ The tool is available both as a Python script for developers and as a standalone
 ### Option 1: Standalone Executable (No Python Required)
 If you do not have Python installed, you can simply run the application .exe after unzipping the .zip file that can be downloaded from the release section:
 1.  Go to the [Releases](../../releases) page of this repository.
-2.  Download the `ICLC.zip` file and unzip it or **[Click here to download the latest ICLC.exe](https://github.com/FranciSessa/ICLC---Interactive-Composite-Laminate-Calculator/releases/latest/download/ICLC.zip)**
+2.  Download the `ICLC.zip` file and unzip it or **[Click here to download the latest ICLC.zip](https://github.com/FranciSessa/ICLC---Interactive-Composite-Laminate-Calculator/releases/latest/download/ICLC.zip)**
 3.  Double-click on `ICLC.exe' to run.
 
 ### Option 2: Run from Source (For Developers)
