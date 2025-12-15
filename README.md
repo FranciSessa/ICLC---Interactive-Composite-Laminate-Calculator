@@ -2,6 +2,7 @@
 
 **A Computational Tool for Composite Laminate Analysis and Optimization**
 
+[![Latest Release](https://img.shields.io/github/v/release/FranciSessa/ICLC-Composite-Calculator?label=Latest%20Download&color=blue&logo=windows)](https://github.com/FranciSessa/ICLC-Composite-Calculator/releases/latest)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -25,10 +26,10 @@ The tool is available both as a Python script for developers and as a standalone
 ## Installation & Usage
 
 ### Option 1: Standalone Executable (No Python Required)
-If you do not have Python installed, you can simply run the application:
+If you do not have Python installed, you can simply run the application .exe after unzipping the .zip file that can be downloaded from the release section:
 1.  Go to the [Releases](../../releases) page of this repository.
-2.  Download the `ICLC.exe` file.
-3.  Double-click to run.
+2.  Download the `ICLC.zip` file and unzip it or **[Click here to download the latest ICLC.exe](https://github.com/FranciSessa/ICLC-Composite-Calculator/releases/latest/download/ICLC_Main.exe)**
+3.  Double-click on `ICLC.exe' to run.
 
 ### Option 2: Run from Source (For Developers)
 1.  **Clone the repository:**
